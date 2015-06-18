@@ -1,0 +1,5 @@
+F:\backup\My Own Work\Resturant\GoogleAdUnit\bin\Debug\SFE.GoogleAdUnit.dll
+F:\backup\My Own Work\Resturant\GoogleAdUnit\bin\Debug\SFE.GoogleAdUnit.pdb
+F:\backup\My Own Work\Resturant\GoogleAdUnit\obj\Debug\GoogleAdUnit.csprojResolveAssemblyReference.cache
+F:\backup\My Own Work\Resturant\GoogleAdUnit\obj\Debug\SFE.GoogleAdUnit.dll
+F:\backup\My Own Work\Resturant\GoogleAdUnit\obj\Debug\SFE.GoogleAdUnit.pdb

@@ -1,0 +1,5 @@
+F:\backup\My Own Work\Resturant\SageFrame\bin\SageFrame.Templating.dll
+F:\backup\My Own Work\Resturant\SageFrame\bin\SageFrame.Templating.pdb
+F:\backup\My Own Work\Resturant\SageFrame.Templating\obj\Debug\SageFrame.Templating.csprojResolveAssemblyReference.cache
+F:\backup\My Own Work\Resturant\SageFrame.Templating\obj\Debug\SageFrame.Templating.dll
+F:\backup\My Own Work\Resturant\SageFrame.Templating\obj\Debug\SageFrame.Templating.pdb

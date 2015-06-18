@@ -1,0 +1,5 @@
+F:\backup\My Own Work\Resturant\SageFrame\bin\SageFrame.Pages.dll
+F:\backup\My Own Work\Resturant\SageFrame\bin\SageFrame.Pages.pdb
+F:\backup\My Own Work\Resturant\SageFrame.Pages\obj\Debug\SageFrame.Pages.csprojResolveAssemblyReference.cache
+F:\backup\My Own Work\Resturant\SageFrame.Pages\obj\Debug\SageFrame.Pages.dll
+F:\backup\My Own Work\Resturant\SageFrame.Pages\obj\Debug\SageFrame.Pages.pdb

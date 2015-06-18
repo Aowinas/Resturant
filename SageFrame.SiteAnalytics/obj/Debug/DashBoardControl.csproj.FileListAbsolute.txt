@@ -1,0 +1,4 @@
+F:\backup\My Own Work\Resturant\SageFrame\bin\DashBoardControl.dll
+F:\backup\My Own Work\Resturant\SageFrame\bin\DashBoardControl.pdb
+F:\backup\My Own Work\Resturant\SageFrame.SiteAnalytics\obj\Debug\DashBoardControl.dll
+F:\backup\My Own Work\Resturant\SageFrame.SiteAnalytics\obj\Debug\DashBoardControl.pdb

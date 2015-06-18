@@ -1,0 +1,6 @@
+F:\backup\My Own Work\Resturant\SageFrame.CDN\bin\Debug\SageFrame.CDN.dll
+F:\backup\My Own Work\Resturant\SageFrame.CDN\bin\Debug\SageFrame.CDN.pdb
+F:\backup\My Own Work\Resturant\SageFrame.CDN\bin\Debug\SageFrame.Common.dll
+F:\backup\My Own Work\Resturant\SageFrame.CDN\bin\Debug\SageFrame.Common.pdb
+F:\backup\My Own Work\Resturant\SageFrame.CDN\obj\Debug\SageFrame.CDN.dll
+F:\backup\My Own Work\Resturant\SageFrame.CDN\obj\Debug\SageFrame.CDN.pdb

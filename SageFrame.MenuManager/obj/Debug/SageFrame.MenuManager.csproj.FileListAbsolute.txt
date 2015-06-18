@@ -1,0 +1,5 @@
+F:\backup\My Own Work\Resturant\SageFrame\bin\SageFrame.MenuManager.dll
+F:\backup\My Own Work\Resturant\SageFrame\bin\SageFrame.MenuManager.pdb
+F:\backup\My Own Work\Resturant\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.csprojResolveAssemblyReference.cache
+F:\backup\My Own Work\Resturant\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.dll
+F:\backup\My Own Work\Resturant\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.pdb

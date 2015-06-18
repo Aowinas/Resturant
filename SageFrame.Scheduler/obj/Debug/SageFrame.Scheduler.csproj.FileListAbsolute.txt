@@ -1,0 +1,5 @@
+F:\backup\My Own Work\Resturant\SageFrame\bin\SageFrame.Scheduler.dll
+F:\backup\My Own Work\Resturant\SageFrame\bin\SageFrame.Scheduler.pdb
+F:\backup\My Own Work\Resturant\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.csprojResolveAssemblyReference.cache
+F:\backup\My Own Work\Resturant\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.dll
+F:\backup\My Own Work\Resturant\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.pdb

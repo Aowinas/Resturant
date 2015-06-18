@@ -1,0 +1,6 @@
+F:\backup\My Own Work\Resturant\SageFrame.Security\bin\Debug\SageFrame.Security.dll
+F:\backup\My Own Work\Resturant\SageFrame.Security\bin\Debug\SageFrame.Security.pdb
+F:\backup\My Own Work\Resturant\SageFrame.Security\bin\Debug\SageFrame.Common.dll
+F:\backup\My Own Work\Resturant\SageFrame.Security\bin\Debug\SageFrame.Common.pdb
+F:\backup\My Own Work\Resturant\SageFrame.Security\obj\Debug\SageFrame.Security.dll
+F:\backup\My Own Work\Resturant\SageFrame.Security\obj\Debug\SageFrame.Security.pdb

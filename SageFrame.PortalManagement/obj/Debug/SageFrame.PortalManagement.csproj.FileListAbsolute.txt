@@ -1,0 +1,4 @@
+F:\backup\My Own Work\Resturant\SageFrame\bin\SageFrame.PortalManagement.dll
+F:\backup\My Own Work\Resturant\SageFrame\bin\SageFrame.PortalManagement.pdb
+F:\backup\My Own Work\Resturant\SageFrame.PortalManagement\obj\Debug\SageFrame.PortalManagement.dll
+F:\backup\My Own Work\Resturant\SageFrame.PortalManagement\obj\Debug\SageFrame.PortalManagement.pdb

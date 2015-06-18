@@ -1,0 +1,4 @@
+F:\backup\My Own Work\Resturant\SageFrame.IPAddressToCountryResolver\bin\Debug\SageFrame.IPAddressToCountryResolver.dll
+F:\backup\My Own Work\Resturant\SageFrame.IPAddressToCountryResolver\bin\Debug\SageFrame.IPAddressToCountryResolver.pdb
+F:\backup\My Own Work\Resturant\SageFrame.IPAddressToCountryResolver\obj\Debug\SageFrame.IPAddressToCountryResolver.dll
+F:\backup\My Own Work\Resturant\SageFrame.IPAddressToCountryResolver\obj\Debug\SageFrame.IPAddressToCountryResolver.pdb

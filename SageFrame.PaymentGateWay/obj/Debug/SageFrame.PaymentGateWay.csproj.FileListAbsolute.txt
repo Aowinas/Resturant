@@ -1,0 +1,7 @@
+F:\backup\My Own Work\Resturant\SageFrame.PaymentGateWay\bin\Debug\SageFrame.PaymentGateWay.dll
+F:\backup\My Own Work\Resturant\SageFrame.PaymentGateWay\bin\Debug\SageFrame.PaymentGateWay.pdb
+F:\backup\My Own Work\Resturant\SageFrame.PaymentGateWay\bin\Debug\SageFrame.Common.dll
+F:\backup\My Own Work\Resturant\SageFrame.PaymentGateWay\bin\Debug\SageFrame.Common.pdb
+F:\backup\My Own Work\Resturant\SageFrame.PaymentGateWay\obj\Debug\SageFrame.PaymentGateWay.csprojResolveAssemblyReference.cache
+F:\backup\My Own Work\Resturant\SageFrame.PaymentGateWay\obj\Debug\SageFrame.PaymentGateWay.dll
+F:\backup\My Own Work\Resturant\SageFrame.PaymentGateWay\obj\Debug\SageFrame.PaymentGateWay.pdb

@@ -1,0 +1,7 @@
+F:\backup\My Own Work\Resturant\SageFrame.Dashboard\bin\Debug\SageFrame.Dashboard.dll
+F:\backup\My Own Work\Resturant\SageFrame.Dashboard\bin\Debug\SageFrame.Dashboard.pdb
+F:\backup\My Own Work\Resturant\SageFrame.Dashboard\bin\Debug\SageFrame.Common.dll
+F:\backup\My Own Work\Resturant\SageFrame.Dashboard\bin\Debug\SageFrame.Common.pdb
+F:\backup\My Own Work\Resturant\SageFrame.Dashboard\obj\Debug\SageFrame.Dashboard.csprojResolveAssemblyReference.cache
+F:\backup\My Own Work\Resturant\SageFrame.Dashboard\obj\Debug\SageFrame.Dashboard.dll
+F:\backup\My Own Work\Resturant\SageFrame.Dashboard\obj\Debug\SageFrame.Dashboard.pdb

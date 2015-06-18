@@ -1,0 +1,6 @@
+F:\backup\My Own Work\Resturant\SageFrame.ModuleManager\bin\Debug\SageFrame.ModuleManager.dll
+F:\backup\My Own Work\Resturant\SageFrame.ModuleManager\bin\Debug\SageFrame.ModuleManager.pdb
+F:\backup\My Own Work\Resturant\SageFrame.ModuleManager\bin\Debug\SageFrame.Common.dll
+F:\backup\My Own Work\Resturant\SageFrame.ModuleManager\bin\Debug\SageFrame.Common.pdb
+F:\backup\My Own Work\Resturant\SageFrame.ModuleManager\obj\Debug\SageFrame.ModuleManager.dll
+F:\backup\My Own Work\Resturant\SageFrame.ModuleManager\obj\Debug\SageFrame.ModuleManager.pdb

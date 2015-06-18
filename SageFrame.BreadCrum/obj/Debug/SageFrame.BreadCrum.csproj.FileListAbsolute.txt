@@ -1,0 +1,4 @@
+F:\backup\My Own Work\Resturant\SageFrame\bin\SageFrame.BreadCrum.dll
+F:\backup\My Own Work\Resturant\SageFrame\bin\SageFrame.BreadCrum.pdb
+F:\backup\My Own Work\Resturant\SageFrame.BreadCrum\obj\Debug\SageFrame.BreadCrum.dll
+F:\backup\My Own Work\Resturant\SageFrame.BreadCrum\obj\Debug\SageFrame.BreadCrum.pdb
